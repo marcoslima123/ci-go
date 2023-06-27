@@ -1,0 +1,6 @@
+mode: set
+github.com/marcoslima123/ci-go/math.go:5.13,7.2 1 0
+github.com/marcoslima123/ci-go/math.go:9.29,11.2 1 1
+github.com/marcoslima123/ci-go/math.go:13.34,15.2 1 0
+github.com/marcoslima123/ci-go/math.go:17.30,19.2 1 0
+github.com/marcoslima123/ci-go/math.go:21.32,23.2 1 0
